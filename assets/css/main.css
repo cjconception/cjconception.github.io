@@ -2496,6 +2496,10 @@
 		}
 
 			.image.fit img {
+				width: 100%;
+				vertical-align: top;
+			}
+			.image.fit2 img {
 				width: 40%;
 				vertical-align: top;
 			}
