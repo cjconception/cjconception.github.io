@@ -2500,7 +2500,7 @@
 				vertical-align: top;
 			}
 			.image.fit2 img {
-				width: 40%;
+				width: 27%;
 				vertical-align: top;
 			}
 
@@ -3337,7 +3337,7 @@
 	#banner {
 		background-attachment: fixed;
 		background-color: #d2d2d2;
-		background-image: url("../../images/conf.jpg");
+		background-image: url("../../images/conf2.jpg");
 		background-position: center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(255, 255, 255, 0.25);
@@ -3357,8 +3357,8 @@
 		}
 
 		#banner:after {
-			background-image: -moz-linear-gradient(top, rgba(210, 210, 210, 0.95), rgba(210, 210, 210, 0.95));;
-			background-image: -webkit-linear-gradient(top, rgba(210, 210, 210, 0.6), rgba(210, 210, 210, 0.6));
+			background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.95));;
+			background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
 			background-image: -ms-linear-gradient(top, rgba(25, 24, 32, 0.95), rgba(210, 210, 210, 0.95));;
 			background-image: linear-gradient(top, rgba(210, 210, 210, 0.95), rgba(210, 210, 210, 0.95));;
 			content: '';
